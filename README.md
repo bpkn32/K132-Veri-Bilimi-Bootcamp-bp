@@ -1,0 +1,1 @@
+# K132-Veri-Bilimi-Bootcamp-bp
