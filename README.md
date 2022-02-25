@@ -1,1 +1,1 @@
-# A repository for storing my homeworks given by K132-Veri-Bilimi-Bootcamp
+# A repository for storing the projects I have done while participating K132.Kodluyoruz & Carbon Consulting Data Science Bootcamp.
